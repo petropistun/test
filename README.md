@@ -6,8 +6,3 @@ test
 second14
 d
   
-
-c
-sd
-
-
